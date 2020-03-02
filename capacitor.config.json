@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "google-maps",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
